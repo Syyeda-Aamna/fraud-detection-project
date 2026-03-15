@@ -11,7 +11,7 @@
 
 ---
 
-# 📊 Overview
+# Overview
 
 The **AI Powered Fraud Detection Dashboard** is a full-stack fintech analytics platform designed to detect suspicious financial transactions using **Machine Learning and Rule-Based Fraud Detection**.
 
@@ -29,7 +29,7 @@ The system evaluates transaction data and generates a **Fraud Risk Score along w
 
 ---
 
-# 🎯 Project Vision
+# Project Vision
 
 The goal of this system is to simulate how **modern fintech companies detect fraud in digital transactions**.
 
@@ -45,7 +45,7 @@ This demonstrates how **AI driven fraud intelligence systems improve financial s
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ### Backend
 
@@ -69,7 +69,7 @@ This demonstrates how **AI driven fraud intelligence systems improve financial s
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 The system follows a **multi-layer architecture similar to real fintech fraud detection platforms.**
 
@@ -107,7 +107,7 @@ The system follows a **multi-layer architecture similar to real fintech fraud de
 
 ---
 
-# 🤖 Machine Learning Fraud Detection
+# Machine Learning Fraud Detection
 
 The system uses a **machine learning model to analyze transaction behaviour and detect anomalies.**
 
@@ -145,7 +145,7 @@ fraud_model.pkl
 
 ---
 
-# 📈 Fraud Analytics Dashboard
+# Fraud Analytics Dashboard
 
 The system provides **interactive fraud analytics graphs**.
 
@@ -170,9 +170,9 @@ The dashboard displays:
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
-### 🔎 Transaction Detection
+### Transaction Detection
 
 Users can enter transaction details to check whether the transaction is **fraudulent or legitimate**.
 
@@ -212,13 +212,13 @@ Example graphs:
 
 ---
 
-### 📋 Transaction History
+### Transaction History
 
 All analyzed transactions are stored and displayed in a **transaction monitoring table**.
 
 ---
 
-### 📄 Export Fraud Report
+###  Export Fraud Report
 
 Users can export transaction analysis as a **CSV report**.
 
@@ -232,12 +232,12 @@ Users can export transaction analysis as a **CSV report**.
 ![Fraud Detection Dashboard](screenshots/dashboard.png)
 
 ---
-# 📂 Project Structure
+# Project Structure
 
 
 ---
 
-# ▶️ Running the Project
+# Running the Project
 
 ### Install Dependencies
 
@@ -260,7 +260,7 @@ Backend → http://localhost:8000
 
 ---
 
-# 🌍 Real World Applications
+# Real World Applications
 
 Fraud detection systems like this are widely used in:
 
@@ -271,7 +271,7 @@ Fraud detection systems like this are widely used in:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible improvements include:
 
