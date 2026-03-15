@@ -225,7 +225,13 @@ Users can export transaction analysis as a **CSV report**.
 ---
 ## 📸 Dashboard Preview
 
+### Initial Dashboard (Before Input)
+![Initial Dashboard](screenshots/without-input.png)
+
+### Fraud Detection Dashboard
 ![Fraud Detection Dashboard](screenshots/dashboard.png)
+
+---
 # 📂 Project Structure
 
 
